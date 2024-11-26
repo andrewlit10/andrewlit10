@@ -2,7 +2,7 @@
 
 ![coding illustration](https://cdni.iconscout.com/illustration/premium/thumb/man-coder-developed-code-in-computer-6818031-5625514.png)
 
-I'm currently learning how to code! 🧑🏻‍💻 I enjoy using creative solutions to solve real-life problems.  I bought my first computer 🖥️ at age 10 and have been obsessed with technology ever since.  When I'm not learning to code, I enjoy my AMC A-List pass 🎬, enjoy nature 🍃 and spend time with family & friends!
+I'm a Front-End Web Developer. I enjoy using creative solutions to solve real-life problems.  I bought my first computer at age 10 and have been obsessed with technology ever since.  When I'm not learning to code, I enjoy my AMC A-List pass, enjoy nature, and spend time with family and friends!
 
 
 <br>
